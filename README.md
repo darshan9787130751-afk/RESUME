@@ -76,6 +76,5 @@ Expected Graduation: 2029
 I hereby declare that the information provided above is true and correct to the best of my knowledge and belief.
 
 **Place:** Karur
-**Date:** ___________
 
 **(DARSHANKANTH S)**
