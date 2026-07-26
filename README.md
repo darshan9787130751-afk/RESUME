@@ -1,8 +1,10 @@
-# **DARSHANKANTH S**
+## **DARSHANKANTH S**
 
 📞 **Phone:** +91 6383554308
 📧 **Email:**[darshan9787130751@gmail.com](mailto:darshan9787130751@gmail.com)
 💻 **GitHub:**https://github.com/darshan9787130751-afk
+
+LEETCODE:https://leetcode.com/u/DARSHANKANTH/
 
 Motivated and enthusiastic B.Tech Information Technology student seeking an opportunity to apply programming, web development, database management, and problem-solving skills in a professional environment. Eager to learn new technologies and contribute effectively to organizational success.
 
