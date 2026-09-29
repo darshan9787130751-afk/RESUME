@@ -62,6 +62,7 @@ Expected Graduation: 2029
 * Oracle Academy – Java Fundamentals
 * Power BI Workshop
 * Tableau Workshop
+* nptl 
 
 ---
 
